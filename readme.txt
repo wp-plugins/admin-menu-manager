@@ -4,7 +4,7 @@ Donate link:       http://required.ch
 Tags:              admin, menu, admin menus, dashboard, order  
 Requires at least: 4.0  
 Tested up to:      4.2  
-Stable tag:        1.0.0  
+Stable tag:        1.0.1  
 License:           GPLv2 or later  
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html  
 
@@ -60,10 +60,16 @@ Developed by [required+](http://required.ch/ "Team of experienced web profession
 
 == Changelog ==
 
+= 1.0.1 =
+* Fix JS URL that made the plugin un-usable
+
 = 1.0.0 =
 * First release
 
 == Upgrade Notice ==
+
+= 1.0.1 =
+Fix JS URL that made the plugin un-usable. Sorry!
 
 = 1.0.0 =
 First release
