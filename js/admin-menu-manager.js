@@ -1,4 +1,4 @@
-/*! Admin Menu Manager - v1.0.0
+/*! Admin Menu Manager - v1.0.1
  * http://required.ch
  * Copyright (c) 2015; * Licensed GPLv2+ */
 /**
