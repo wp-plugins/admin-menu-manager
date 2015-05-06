@@ -4,7 +4,7 @@ Donate link:       http://required.ch
 Tags:              admin, menu, admin menus, dashboard, order  
 Requires at least: 4.0  
 Tested up to:      4.2  
-Stable tag:        1.0.2  
+Stable tag:        1.0.3  
 License:           GPLv2 or later  
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html  
 
@@ -60,6 +60,9 @@ Developed by [required+](http://required.ch/ "Team of experienced web profession
 
 == Changelog ==
 
+= 1.0.3 (2015-05-06) =
+* Fixed: Localized menu items were displayed in English under some conditions.
+
 = 1.0.2 (2015-05-04) =
 * Fixed: Localized sub menu items didn’t work properly due do wrongly translated strings.
 
@@ -70,6 +73,9 @@ Developed by [required+](http://required.ch/ "Team of experienced web profession
 * First release
 
 == Upgrade Notice ==
+
+= 1.0.3 =
+This version contains a better fix for sub menu items that didn’t appear to work on localized sites.
 
 = 1.0.2 =
 This version contains a fix for sub menu items that didn’t appear to work on localized sites.
